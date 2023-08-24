@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqRvFQcE5oPQY5X0MUTK+ofI1DFhNyCimeTn60guWiN2IMh8cEO+Ddo4vhU+NX8KuUwnwt8qSssFsxG7c0rHTQ==",
+  "success": true,
+  "projectFilePath": "E:\\SkilFact\\LifeSpotMod\\LifeSpotMy\\LifeSpotMy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kul3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kul3\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kul3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kul3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
